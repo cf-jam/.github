@@ -1,4 +1,4 @@
-# 401 Mudterm Project
+# 401 Midterm Project
 
 ## Team Agreement
 
